@@ -11,6 +11,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.17.0](https://github.com/nidhi-sharma-alliander/cable-thermal-model/compare/v1.16.0...v1.17.0) (2026-07-07)
+
+
+### Features
+
+* demo release-please automation ([807e288](https://github.com/nidhi-sharma-alliander/cable-thermal-model/commit/807e288f94b5e9e8e30d8b9bd87678e97e4bdbc2))
+
 ## [1.16.0](https://github.com/nidhi-sharma-alliander/cable-thermal-model/compare/v1.15.2...v1.16.0) (2026-07-03)
 
 
